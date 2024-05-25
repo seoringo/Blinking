@@ -9,8 +9,8 @@
 
 youtubeリンク：https://youtu.be/mmFWhVchnQk
 
-<img src="図2.png" width="50%">
-<img src="図7.png" width="50%">
+<img src="図2.png" width="30%">
+<img src="図7.png" width="30%">
 
 
 ## 使用したもの
